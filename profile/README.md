@@ -28,16 +28,6 @@ O time de dados é uma equipe multidisciplinar dedicada a fornecer insights e so
     - Garantir a qualidade, segurança e conformidade dos dados com as políticas internas e regulatórias.
     - Documentar e monitorar o uso dos dados em toda a organização.
 
-## Ferramentas e Tecnologias 
-
-- **Banco de Dados**: PostgreSQL, Oracle, DuckDB, MongoDB
-- **Linguagens de Programação**: Python (bibliotecas: pandas, SQLAlchemy)
-- **Data Pipelines**: Apache Airflow, dbt (Data Build Tool)
-- **ETL e Integração de Dados**: DltHub, PyArrow
-- **Visualização de Dados**: QlikView, Streamlit, Metabase
-- **Infraestrutura**: Docker, Linux
-- **Controle de Versão**: GitLab
-
 
 ## Fluxo de Trabalho
 
